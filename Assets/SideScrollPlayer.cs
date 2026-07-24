@@ -61,7 +61,7 @@ public class SideScrollPlayer : MonoBehaviour
             jumpRequested = false;
         }
     }
-
+        
     private void RotateCharacter()
     {
         // Haharap sa kanan kapag D/Right Arrow, at sa kaliwa kapag A/Left Arrow
